@@ -1,6 +1,6 @@
 ﻿# Crime Data Analysis
 
-#Explore the result presented through a visually appealing user interface. Click on the link below.
+Explore the result presented through our visually appealing user interface. Click on the link below.
 https://pragatisukhija.github.io/CrimeDataAnalysis/
 
 
