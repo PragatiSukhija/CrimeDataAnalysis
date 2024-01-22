@@ -1,17 +1,5 @@
 ﻿# Crime Data Analysis
 
-**Group Name :** CrimeCalculus
-**Group Number :** 25
-
-**Group Members:**
-
-|Name  |Email  |Student ID  | 
-|--|--|--|
-| Aditya Mohan Gupta  | agupt166@ucr.edu |862467699  |
-|  Ankit Laxmikant Yadav |ayada023@ucr.edu  |862466907  |
-|Madhura Patil  | mpati020@ucr.edu |862467792|
-|   Pournima Hemantkumar Shinde |pshin024@ucr.edu  |862468394|
-|Pragati Mahesh Sukhija  | psukh002@ucr.edu |862468396|
 
 
 
